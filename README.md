@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/anushka1330/leetcode_submissions/tree/master/1510-stone-game-iv) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anushka1330/leetcode_submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/anushka1330/leetcode_submissions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/anushka1330/leetcode_submissions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/anushka1330/leetcode_submissions/tree/master/2469-convert-the-temperature) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anushka1330/leetcode_submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/anushka1330/leetcode_submissions/tree/master/2413-smallest-even-multiple) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anushka1330/leetcode_submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushka1330/leetcode_submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Minimax
 |  |
@@ -93,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushka1330/leetcode_submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anushka1330/leetcode_submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anushka1330/leetcode_submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
