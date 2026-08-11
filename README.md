@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/anushka1330/leetcode_submissions/tree/master/0412-fizz-buzz) |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/anushka1330/leetcode_submissions/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushka1330/leetcode_submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/anushka1330/leetcode_submissions/tree/master/0412-fizz-buzz) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anushka1330/leetcode_submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushka1330/leetcode_submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/anushka1330/leetcode_submissions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
