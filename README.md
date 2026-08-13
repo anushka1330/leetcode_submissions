@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/anushka1330/leetcode_submissions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/anushka1330/leetcode_submissions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/anushka1330/leetcode_submissions/tree/master/2469-convert-the-temperature) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anushka1330/leetcode_submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anushka1330/leetcode_submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anushka1330/leetcode_submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
