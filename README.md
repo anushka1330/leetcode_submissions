@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anushka1330/leetcode_submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anushka1330/leetcode_submissions/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/anushka1330/leetcode_submissions/tree/master/0412-fizz-buzz) |
+| [1137-n-th-tribonacci-number](https://github.com/anushka1330/leetcode_submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/anushka1330/leetcode_submissions/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushka1330/leetcode_submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/anushka1330/leetcode_submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/anushka1330/leetcode_submissions/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anushka1330/leetcode_submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anushka1330/leetcode_submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/anushka1330/leetcode_submissions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
