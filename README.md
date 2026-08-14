@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/anushka1330/leetcode_submissions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/anushka1330/leetcode_submissions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/anushka1330/leetcode_submissions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/anushka1330/leetcode_submissions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/anushka1330/leetcode_submissions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/anushka1330/leetcode_submissions/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/anushka1330/leetcode_submissions/tree/master/1137-n-th-tribonacci-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/anushka1330/leetcode_submissions/tree/master/0202-happy-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anushka1330/leetcode_submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/anushka1330/leetcode_submissions/tree/master/0202-happy-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anushka1330/leetcode_submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushka1330/leetcode_submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anushka1330/leetcode_submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anushka1330/leetcode_submissions/tree/master/0050-powx-n) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/anushka1330/leetcode_submissions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
