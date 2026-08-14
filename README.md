@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/anushka1330/leetcode_submissions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/anushka1330/leetcode_submissions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/anushka1330/leetcode_submissions/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/anushka1330/leetcode_submissions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/anushka1330/leetcode_submissions/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/anushka1330/leetcode_submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/anushka1330/leetcode_submissions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushka1330/leetcode_submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/anushka1330/leetcode_submissions/tree/master/2413-smallest-even-multiple) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/anushka1330/leetcode_submissions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/anushka1330/leetcode_submissions/tree/master/0412-fizz-buzz) |
 ## Segment Tree
 |  |
