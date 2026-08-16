@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/anushka1330/leetcode_submissions/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushka1330/leetcode_submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/anushka1330/leetcode_submissions/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/anushka1330/leetcode_submissions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/anushka1330/leetcode_submissions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/anushka1330/leetcode_submissions/tree/master/2469-convert-the-temperature) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/anushka1330/leetcode_submissions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anushka1330/leetcode_submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/anushka1330/leetcode_submissions/tree/master/0204-count-primes) |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushka1330/leetcode_submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/anushka1330/leetcode_submissions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anushka1330/leetcode_submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anushka1330/leetcode_submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushka1330/leetcode_submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/anushka1330/leetcode_submissions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/anushka1330/leetcode_submissions/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -97,15 +101,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/anushka1330/leetcode_submissions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/anushka1330/leetcode_submissions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/anushka1330/leetcode_submissions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/anushka1330/leetcode_submissions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/anushka1330/leetcode_submissions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/anushka1330/leetcode_submissions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -190,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anushka1330/leetcode_submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/anushka1330/leetcode_submissions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
