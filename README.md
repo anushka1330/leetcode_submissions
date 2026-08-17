@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anushka1330/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/anushka1330/leetcode_submissions/tree/master/0202-happy-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anushka1330/leetcode_submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anushka1330/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0204-count-primes](https://github.com/anushka1330/leetcode_submissions/tree/master/0204-count-primes) |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/anushka1330/leetcode_submissions/tree/master/1563-stone-game-v) |
