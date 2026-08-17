@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/anushka1330/leetcode_submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anushka1330/leetcode_submissions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/anushka1330/leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/anushka1330/leetcode_submissions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/anushka1330/leetcode_submissions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/anushka1330/leetcode_submissions/tree/master/0202-happy-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anushka1330/leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/anushka1330/leetcode_submissions/tree/master/0412-fizz-buzz) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anushka1330/leetcode_submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anushka1330/leetcode_submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anushka1330/leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/anushka1330/leetcode_submissions/tree/master/0202-happy-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anushka1330/leetcode_submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushka1330/leetcode_submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
