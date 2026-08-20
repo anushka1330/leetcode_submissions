@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anushka1330/leetcode_submissions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/anushka1330/leetcode_submissions/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/anushka1330/leetcode_submissions/tree/master/0412-fizz-buzz) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anushka1330/leetcode_submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anushka1330/leetcode_submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anushka1330/leetcode_submissions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anushka1330/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anushka1330/leetcode_submissions/tree/master/0027-remove-element) |
 | [0204-count-primes](https://github.com/anushka1330/leetcode_submissions/tree/master/0204-count-primes) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/anushka1330/leetcode_submissions/tree/master/2029-stone-game-ix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anushka1330/leetcode_submissions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
