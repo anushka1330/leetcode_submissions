@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/anushka1330/leetcode_submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/anushka1330/leetcode_submissions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/anushka1330/leetcode_submissions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushka1330/leetcode_submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/anushka1330/leetcode_submissions/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/anushka1330/leetcode_submissions/tree/master/2235-add-two-integers) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anushka1330/leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anushka1330/leetcode_submissions/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/anushka1330/leetcode_submissions/tree/master/0412-fizz-buzz) |
+| [1927-sum-game](https://github.com/anushka1330/leetcode_submissions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anushka1330/leetcode_submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anushka1330/leetcode_submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anushka1330/leetcode_submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/anushka1330/leetcode_submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anushka1330/leetcode_submissions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anushka1330/leetcode_submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/anushka1330/leetcode_submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/anushka1330/leetcode_submissions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/anushka1330/leetcode_submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anushka1330/leetcode_submissions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
