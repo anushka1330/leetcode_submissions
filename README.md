@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anushka1330/leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/anushka1330/leetcode_submissions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/anushka1330/leetcode_submissions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/anushka1330/leetcode_submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anushka1330/leetcode_submissions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/anushka1330/leetcode_submissions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/anushka1330/leetcode_submissions/tree/master/0204-count-primes) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/anushka1330/leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anushka1330/leetcode_submissions/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/anushka1330/leetcode_submissions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/anushka1330/leetcode_submissions/tree/master/0412-fizz-buzz) |
 | [1927-sum-game](https://github.com/anushka1330/leetcode_submissions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anushka1330/leetcode_submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anushka1330/leetcode_submissions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/anushka1330/leetcode_submissions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/anushka1330/leetcode_submissions/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anushka1330/leetcode_submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anushka1330/leetcode_submissions/tree/master/0067-add-binary) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anushka1330/leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anushka1330/leetcode_submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting
