@@ -44,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anushka1330/leetcode_submissions/tree/master/0100-same-tree) |
 | [3310-remove-methods-from-project](https://github.com/anushka1330/leetcode_submissions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anushka1330/leetcode_submissions/tree/master/0100-same-tree) |
 | [3310-remove-methods-from-project](https://github.com/anushka1330/leetcode_submissions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -254,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anushka1330/leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anushka1330/leetcode_submissions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anushka1330/leetcode_submissions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
