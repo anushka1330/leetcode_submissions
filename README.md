@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/anushka1330/leetcode_submissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/anushka1330/leetcode_submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anushka1330/leetcode_submissions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/anushka1330/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/anushka1330/leetcode_submissions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/anushka1330/leetcode_submissions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/anushka1330/leetcode_submissions/tree/master/0258-add-digits) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anushka1330/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/anushka1330/leetcode_submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/anushka1330/leetcode_submissions/tree/master/1510-stone-game-iv) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anushka1330/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/anushka1330/leetcode_submissions/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search
 |  |
