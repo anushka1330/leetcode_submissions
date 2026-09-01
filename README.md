@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/anushka1330/leetcode_submissions/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/anushka1330/leetcode_submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/anushka1330/leetcode_submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/anushka1330/leetcode_submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/anushka1330/leetcode_submissions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/anushka1330/leetcode_submissions/tree/master/1872-stone-game-viii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/anushka1330/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/anushka1330/leetcode_submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/anushka1330/leetcode_submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/anushka1330/leetcode_submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/anushka1330/leetcode_submissions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/anushka1330/leetcode_submissions/tree/master/1872-stone-game-viii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/anushka1330/leetcode_submissions/tree/master/0204-count-primes) |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/anushka1330/leetcode_submissions/tree/master/1386-cinema-seat-allocation) |
+| [1406-stone-game-iii](https://github.com/anushka1330/leetcode_submissions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/anushka1330/leetcode_submissions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/anushka1330/leetcode_submissions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushka1330/leetcode_submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/anushka1330/leetcode_submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/anushka1330/leetcode_submissions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/anushka1330/leetcode_submissions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/anushka1330/leetcode_submissions/tree/master/2029-stone-game-ix) |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/anushka1330/leetcode_submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/anushka1330/leetcode_submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/anushka1330/leetcode_submissions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/anushka1330/leetcode_submissions/tree/master/1872-stone-game-viii) |
@@ -157,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/anushka1330/leetcode_submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/anushka1330/leetcode_submissions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/anushka1330/leetcode_submissions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/anushka1330/leetcode_submissions/tree/master/2029-stone-game-ix) |
