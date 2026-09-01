@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/anushka1330/leetcode_submissions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/anushka1330/leetcode_submissions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/anushka1330/leetcode_submissions/tree/master/0190-reverse-bits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anushka1330/leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anushka1330/leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anushka1330/leetcode_submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anushka1330/leetcode_submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/anushka1330/leetcode_submissions/tree/master/0190-reverse-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
