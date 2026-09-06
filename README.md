@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anushka1330/leetcode_submissions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/anushka1330/leetcode_submissions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/anushka1330/leetcode_submissions/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/anushka1330/leetcode_submissions/tree/master/0115-distinct-subsequences) |
 | [0290-word-pattern](https://github.com/anushka1330/leetcode_submissions/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/anushka1330/leetcode_submissions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/anushka1330/leetcode_submissions/tree/master/0412-fizz-buzz) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anushka1330/leetcode_submissions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/anushka1330/leetcode_submissions/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/anushka1330/leetcode_submissions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/anushka1330/leetcode_submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
