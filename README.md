@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/anushka1330/leetcode_submissions/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/anushka1330/leetcode_submissions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/anushka1330/leetcode_submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anushka1330/leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Newton's Method
 |  |
@@ -359,4 +360,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/anushka1330/leetcode_submissions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/anushka1330/leetcode_submissions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
