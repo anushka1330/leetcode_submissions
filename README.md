@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/anushka1330/leetcode_submissions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/anushka1330/leetcode_submissions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/anushka1330/leetcode_submissions/tree/master/0412-fizz-buzz) |
+| [0836-rectangle-overlap](https://github.com/anushka1330/leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anushka1330/leetcode_submissions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/anushka1330/leetcode_submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
@@ -371,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/anushka1330/leetcode_submissions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/anushka1330/leetcode_submissions/tree/master/0374-guess-number-higher-or-lower) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/anushka1330/leetcode_submissions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
