@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anushka1330/leetcode_submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/anushka1330/leetcode_submissions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/anushka1330/leetcode_submissions/tree/master/0204-count-primes) |
+| [0485-max-consecutive-ones](https://github.com/anushka1330/leetcode_submissions/tree/master/0485-max-consecutive-ones) |
 | [0835-image-overlap](https://github.com/anushka1330/leetcode_submissions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/anushka1330/leetcode_submissions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
