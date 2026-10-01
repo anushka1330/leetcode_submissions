@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/anushka1330/leetcode_submissions/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anushka1330/leetcode_submissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/anushka1330/leetcode_submissions/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/anushka1330/leetcode_submissions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/anushka1330/leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anushka1330/leetcode_submissions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/anushka1330/leetcode_submissions/tree/master/1137-n-th-tribonacci-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/anushka1330/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/anushka1330/leetcode_submissions/tree/master/0115-distinct-subsequences) |
+| [0486-predict-the-winner](https://github.com/anushka1330/leetcode_submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anushka1330/leetcode_submissions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/anushka1330/leetcode_submissions/tree/master/1137-n-th-tribonacci-number) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anushka1330/leetcode_submissions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/anushka1330/leetcode_submissions/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/anushka1330/leetcode_submissions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/anushka1330/leetcode_submissions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/anushka1330/leetcode_submissions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/anushka1330/leetcode_submissions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/anushka1330/leetcode_submissions/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/anushka1330/leetcode_submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anushka1330/leetcode_submissions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anushka1330/leetcode_submissions/tree/master/1406-stone-game-iii) |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/anushka1330/leetcode_submissions/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/anushka1330/leetcode_submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anushka1330/leetcode_submissions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anushka1330/leetcode_submissions/tree/master/1406-stone-game-iii) |
@@ -229,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/anushka1330/leetcode_submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anushka1330/leetcode_submissions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anushka1330/leetcode_submissions/tree/master/1406-stone-game-iii) |
@@ -338,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anushka1330/leetcode_submissions/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/anushka1330/leetcode_submissions/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anushka1330/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
