@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/anushka1330/leetcode_submissions/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/anushka1330/leetcode_submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/anushka1330/leetcode_submissions/tree/master/0486-predict-the-winner) |
+| [0506-relative-ranks](https://github.com/anushka1330/leetcode_submissions/tree/master/0506-relative-ranks) |
 | [0835-image-overlap](https://github.com/anushka1330/leetcode_submissions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/anushka1330/leetcode_submissions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1140-stone-game-ii) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/anushka1330/leetcode_submissions/tree/master/0506-relative-ranks) |
 | [1096-brace-expansion-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anushka1330/leetcode_submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anushka1330/leetcode_submissions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/anushka1330/leetcode_submissions/tree/master/0506-relative-ranks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anushka1330/leetcode_submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Indexed Tree
 |  |
