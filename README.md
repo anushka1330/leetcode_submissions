@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/anushka1330/leetcode_submissions/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anushka1330/leetcode_submissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/anushka1330/leetcode_submissions/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anushka1330/leetcode_submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/anushka1330/leetcode_submissions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/anushka1330/leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anushka1330/leetcode_submissions/tree/master/0877-stone-game) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anushka1330/leetcode_submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/anushka1330/leetcode_submissions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/anushka1330/leetcode_submissions/tree/master/0204-count-primes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anushka1330/leetcode_submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/anushka1330/leetcode_submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/anushka1330/leetcode_submissions/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/anushka1330/leetcode_submissions/tree/master/0506-relative-ranks) |
