@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anushka1330/leetcode_submissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/anushka1330/leetcode_submissions/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anushka1330/leetcode_submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/anushka1330/leetcode_submissions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/anushka1330/leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anushka1330/leetcode_submissions/tree/master/0877-stone-game) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anushka1330/leetcode_submissions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/anushka1330/leetcode_submissions/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anushka1330/leetcode_submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/anushka1330/leetcode_submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/anushka1330/leetcode_submissions/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/anushka1330/leetcode_submissions/tree/master/0506-relative-ranks) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/anushka1330/leetcode_submissions/tree/master/0506-relative-ranks) |
 | [1096-brace-expansion-ii](https://github.com/anushka1330/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anushka1330/leetcode_submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
