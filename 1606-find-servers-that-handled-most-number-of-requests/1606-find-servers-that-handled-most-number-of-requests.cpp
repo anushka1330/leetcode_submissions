@@ -1,65 +1,36 @@
-constexpr int N=1e5;
-using u64=uint64_t;
-u64 busy[N];// packed pair ( time, server id)
-int freq[N];
-bitset<N> Free;
-inline u64 pack(int t, int id){ return ((u64)t<<17)+id; }
 class Solution {
-public:
-    static vector<int> busiestServers(int k, vector<int>& arrival, vector<int>& load) {
-        const int n=arrival.size();
-        if (n<=k){// special case
-            vector<int> ans(n);
-            iota(ans.begin(), ans.end(), 0);
-            return ans;
-        }
-        // reset fot this testcase
-        memset(freq, 0, k*sizeof(int));
-        Free.set();
-    
-        for(int i=0; i<k; i++){
-            freq[i]++;
-            busy[i]=pack(arrival[i]+load[i], i);
-            Free[i]=0;
-        }
-        priority_queue<u64, vector<u64>, greater<u64>> pq(busy, busy+k);
-        constexpr int mask=(1<<17)-1;
-        int maxF=1;
-        for(int i=k; i<n; i++){
-            int t0=arrival[i], t=t0+load[i];
-            u64 data;
-            while( !pq.empty() && ((data=pq.top())>>17)<=t0){
-                int id=data & mask;
-                Free[id]=1;
-                pq.pop();
-            }
-            if ( pq.size()>=k) continue; // all servers are busy
-            int i0=(i>=k)?i%k:i;
-            if (Free[i0]){
-                maxF=max(++freq[i0], maxF);
-                Free[i0]=0;
-                pq.push(pack(t, i0));
-            }
-            else{
-                int nxt=Free._Find_next(i0);
-                if (nxt>=k) nxt=Free._Find_first();
-                maxF=max(++freq[nxt], maxF);
-                Free[nxt]=0;
-                pq.push(pack(t, nxt));
-            }
-        }
-        vector<int> ans;
-        ans.reserve(k);
-        for(int i=0; i<k; i++)
-            if (freq[i]==maxF) ans.push_back(i);
+    struct Job {
+        int at;  // the time its server frees up
+        int server;
+        auto operator<=>(const Job&) const = default;
+    };
+    template <class T> using MinHeap = priority_queue<T, vector<T>, greater<>>;
 
+public:
+    vector<int> busiestServers(int k, vector<int>& arrival, vector<int>& load) {
+        vector<int> turns(k);
+        iota(turns.begin(), turns.end(), 0);  // at request 0, server x's next turn is x
+        MinHeap<int> free(greater<>{}, std::move(turns));  // each free server, keyed by its next turn
+
+        MinHeap<Job> busy;
+        vector<int> handled(k);
+        for (int i = 0; i < ssize(arrival); ++i) {
+            while (!busy.empty() && busy.top().at <= arrival[i]) {  // done by the arrival
+                int x = busy.top().server;
+                busy.pop();
+                free.push(i + (x - i % k + k) % k);  // its first turn from i on
+            }
+            if (free.empty()) continue;  // none free: the request is dropped
+            int x = free.top() % k;
+            free.pop();
+            busy.push({arrival[i] + load[i], x});
+            ++handled[x];
+        }
+
+        int most = ranges::max(handled);
+        vector<int> ans;
+        for (int x = 0; x < k; ++x)
+            if (handled[x] == most) ans.push_back(x);
         return ans;
     }
 };
-
-auto init = []() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 'c';
-}();
