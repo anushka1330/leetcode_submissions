@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/anushka1330/leetcode_submissions/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/anushka1330/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/anushka1330/leetcode_submissions/tree/master/0115-distinct-subsequences) |
+| [0338-counting-bits](https://github.com/anushka1330/leetcode_submissions/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/anushka1330/leetcode_submissions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/anushka1330/leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/anushka1330/leetcode_submissions/tree/master/0877-stone-game) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/anushka1330/leetcode_submissions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/anushka1330/leetcode_submissions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/anushka1330/leetcode_submissions/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/anushka1330/leetcode_submissions/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/anushka1330/leetcode_submissions/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anushka1330/leetcode_submissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1386-cinema-seat-allocation](https://github.com/anushka1330/leetcode_submissions/tree/master/1386-cinema-seat-allocation) |
